@@ -34,7 +34,7 @@
 
 <div align="center"> 
 
-### [Rentry](https://rentry.co/thecatlitterbox)<br/>
+### [Rentry](https://rentry.co/thecatlitterboxcollective)<br/>
 <br/>
 <p align="center">
   <img src="https://64.media.tumblr.com/a8330fd50ccf800ec52cf3ea28c73958/6d08fe58ff2c7311-e1/s250x400/8953a1410482b75ee05fd896e0cc739a89dddddd.pnj" width="70">
